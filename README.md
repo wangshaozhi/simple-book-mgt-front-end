@@ -1,4 +1,4 @@
-###  simple-book-mgt 简单图书管理系统
+###  simple-book-mgt-front-end 简单图书管理系统前端项目
 
 ### 本项目前端采用vue全家桶 vue-router、vuex、axios以及Element-UI来进行开发。
 
